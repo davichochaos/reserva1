@@ -1,2 +1,2 @@
-# reserva1
-opcion1
+# reserva
+opciones
